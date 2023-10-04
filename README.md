@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 👨‍💻 I’m @NavneetSharmaPro
+- ❤️ I love Java and Python.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning [Scala](https://www.scala-lang.org/)
+- 💞️ I’m looking to collaborate on any Java or Scala project
+- 📫 How to reach me navneet.sharma.pro@gmail.com
 <!--
 **NavneetSharmaPro/NavneetSharmaPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
